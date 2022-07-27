@@ -1,0 +1,28 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication6;
+
+/**
+ *
+ * @author NAREN
+ */
+public class Controlstatements4 {
+    public static void main(String args[])
+    {
+        int num1 = -150;
+        if(num1>0)//condition
+        {
+            System.out.println("Number1 is Positive");
+        }
+        else
+        {
+            System.out.println("Number1 is Negative");
+        }
+    }
+    
+}
+    
+
