@@ -1,0 +1,30 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication6;
+
+/**
+ *
+ * @author NAREN
+ */
+public class Controlstatements7 {
+    public static void main(String args[])
+    {
+        int age = 25;
+        int weight = 60;
+        if(age>=18)
+        {
+            if(weight>55)
+            {
+                System.out.println("You are eligible to donate blood");
+            }
+        }
+        else
+        {
+            System.out.println("Age must be greater than 18");
+    
+}
+    
+
